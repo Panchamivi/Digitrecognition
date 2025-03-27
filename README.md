@@ -1,9 +1,5 @@
 # Digitrecognition
-Certainly! Here's a detailed and professional `README.md` file tailored for your digit recognition system project. You can customize it further if needed:
 
----
-
-```markdown
 # Digit Recognition Neural Network in Java
 
 A simple feedforward neural network implementation in Java that recognizes handwritten digits using hardcoded data. This project serves as an introduction to implementing and training neural networks for image classification tasks.
@@ -29,8 +25,6 @@ A simple feedforward neural network implementation in Java that recognizes handw
 
 ## 📂 Project Structure
 
-```
-/src
   |-- NeuralNetwork.java           // Core logic for the neural network
   |-- DatasetHandler.java          // Handles training data and labels
   |-- Main.java                    // Entry point to run training and prediction
